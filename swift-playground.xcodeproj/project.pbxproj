@@ -6,10 +6,15 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		3D2F0C992C97E3A8001E5FEE /* spl-a-swift-tour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "spl-a-swift-tour.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		3D2F0C922C9716C3001E5FEE = {
 			isa = PBXGroup;
 			children = (
+				3D2F0C992C97E3A8001E5FEE /* spl-a-swift-tour.playground */,
 			);
 			sourceTree = "<group>";
 		};
